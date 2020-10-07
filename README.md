@@ -14,7 +14,7 @@ upd:
 <b>Valid only for Russian numbers!</b>
 
 # Install
-git clone https://github.com/Nikait/ni_bomber
+git clone https://github.com/ScatPoltik/bomb_master.git
 
 cd ni_bomber
 
@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 
 
 
-python3 ni_bomber.py
+python3 bomber_master.py
 
 Relax! 
 
