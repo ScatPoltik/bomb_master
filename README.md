@@ -16,7 +16,8 @@ upd:
 # Install
 git clone https://github.com/ScatPoltik/bomb_master.git
 
-cd ni_bomber
+cd bomber_master
+
 
 pip3 install -r requirements.txt
 
